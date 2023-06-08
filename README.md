@@ -13,3 +13,10 @@ How it works:
 archinstall --config https://raw.githubusercontent.com/ckiri/archinstall-config/main/user_configuration.json \
 	    --disk_layout https://raw.githubusercontent.com/ckiri/archinstall-config/main/user_disk_layout.json
 ```
+
+Or if you prefer the files locally:
+```bash
+git clone https://github.com/ckiri/archinstall-config
+cd archinstall-config
+archinstall --config user_configuration.json --disk_layout user_disk_layout.json
+```
