@@ -10,6 +10,6 @@ keyboardlayout and so on.
 
 How it works:
 ```bash
-archinstall --config https://github.com/ckiri/archinstall-config/blob/main/user_configuration.json \
-	    --disk_layout https://github.com/ckiri/archinstall-config/blob/main/user_disk_layout.json
+archinstall --config https://raw.githubusercontent.com/ckiri/archinstall-config/main/user_configuration.json \
+	    --disk_layout https://raw.githubusercontent.com/ckiri/archinstall-config/main/user_disk_layout.json
 ```
