@@ -7,18 +7,18 @@
     "hostname": "arch-desk",
     "kernels": [
 	"linux"
-    ]
+    ],
     "keyboard-layout": "de-latin1-nodeadkeys",
     "mirrir-region": "Germany",
     "nic": {
 	"type": "nm"
-    }
+    },
     "no_pkg_lookups": false,
     "ntp": true,
     "offline": false,
     "packages": [
 	"ansible",
-	"git",
+	"git"
     ],
     "profile": {
 	"path": "/usr/lib/python3.11/site-packages/archinstall/profiles/xorg.py"

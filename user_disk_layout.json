@@ -16,7 +16,7 @@
 	    {
 		"encrypted": false,
 		"filesystem": {
-		    "format": "ext4",
+		    "format": "ext4"
 		},
 		"mountpoint": "/",
 		"size": "65536MiB",
@@ -27,7 +27,7 @@
 	    {
 		"encrypted": false,
 		"filesystem": {
-		    "format": "linux-swap",
+		    "format": "linux-swap"
 		},
 		"size": "8192MiB",
 		"start": "66051MiB",
@@ -37,7 +37,7 @@
 	    {
 		"encrypted": false,
 		"filesystem": {
-		    "format": "ext4",
+		    "format": "ext4"
 		},
 		"mountpoint": "/home",
 		"size": "100%",
@@ -47,5 +47,6 @@
 	    }
        ],
        "wipe": true
+    }
 }
 
