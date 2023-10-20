@@ -214,11 +214,13 @@
     "ntp": true,
     "offline": false,
     "packages": [
-        "git"
+        "git",
+        "python3",
+        "openssh"
     ],
     "parallel downloads": 0,
     "profile": {
-        "path": "/usr/lib/python3.11/site-packages/archinstall/profiles/xorg.py"
+        "path": "/usr/lib/python3.11/site-packages/archinstall/profiles/minimal.py"
     },
     "profile_config": {
         "gfx_driver": "All open-source",
