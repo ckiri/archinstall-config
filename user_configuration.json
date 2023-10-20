@@ -214,7 +214,6 @@
     "ntp": true,
     "offline": false,
     "packages": [
-        "ansible",
         "git"
     ],
     "parallel downloads": 0,
